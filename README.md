@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vahidesegah
 - 👀 I’m interested in Teaching, Music and Coding.
 - 🌱 I’m currently learning FS Web Developing.
-- 💞️ I’m looking to collaborate on anything that seems fun and educating :)
+- 💞️ I’m looking to collaborate on anything that seems both fun and educating :)
 - 📫 You may contact me at vahidesegah@gmail.com
 
 
