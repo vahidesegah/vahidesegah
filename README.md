@@ -1,4 +1,13 @@
 # 💫 About Me:
+
+What I do by coding:
+
+https://goit-react-hw-01-six-lemon.vercel.app/
+https://goit-react-hw-02-iota-flax.vercel.app/
+https://goit-react-hw-03-weld-six.vercel.app/
+https://goit-react-hw-04-sigma-swart.vercel.app/
+(...)
+
 With over a decade of dedication to Türkiye Cumhuriyeti Millî Eğitim Bakanlığı, my career has been defined by a commitment to innovation in early childhood education, leveraging my expertise in drama education to cultivate a dynamic learning environment. <br>The integration of music performance and guitar playing into my teaching methodology enriches the educational experience, fostering creativity and engagement among young learners.<br><br>My professional journey is characterized by a continuous quest for knowledge, as evidenced by my current studies in Full Stack Web Development, which I intertwine with traditional teaching practices. <br>This pursuit reflects a broader mission to harmonize education with emerging technologies, ensuring that my pedagogical approach remains relevant and impactful in a rapidly evolving digital landscape.
 
 
