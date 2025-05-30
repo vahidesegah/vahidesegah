@@ -2,7 +2,7 @@
 
 What I do by coding:
 
-FullStack: http://www.fkteknikklima.com/
+Basic HTML and CSS: http://www.fkteknikklima.com/
 Part of The Backend: https://slim-mom-git-master-gokhankkaradumans-projects.vercel.app/
 
 Just HomeWorks:
