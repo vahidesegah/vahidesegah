@@ -5,7 +5,7 @@ What I do by coding:
 Basic HTML and CSS: http://www.fkteknikklima.com/
 Part of The Backend: https://slim-mom-git-master-gokhankkaradumans-projects.vercel.app/
 
-Just HomeWorks:
+Homework Studies:
 https://goit-react-hw-01-six-lemon.vercel.app/
 https://goit-react-hw-02-iota-flax.vercel.app/
 https://goit-react-hw-03-weld-six.vercel.app/
